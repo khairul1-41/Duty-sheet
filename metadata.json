@@ -1,0 +1,6 @@
+{
+  "name": "Salary Sheet Maker",
+  "description": "Create, manage, and calculate employee monthly duty and salary sheets, and convert or export them to professional PDF documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
